@@ -1,0 +1,81 @@
+
+*{
+    margin: 3px;
+    padding: 3px;
+}
+
+.sks{
+
+    color: rgb(255, 0, 0);
+    text-align: center;
+    margin-left: 30%;
+}
+
+.sks h2{
+    margin-left: -25%;
+}
+
+body{
+    background-image: url(sks1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150vh;
+    overflow-x: hidden;
+}
+
+.links ul li{
+    display: inline;
+    margin: 25px;
+    float: right;
+    
+}
+
+.links ul li:hover {
+    background-color: rgb(172, 107, 107);
+}
+
+.heading{
+    color: white;
+    text-align: center;
+}
+
+.page {
+    height: 30vh;
+    margin-top: -2%;
+    margin-left: 150px;
+    color: antiquewhite;
+}
+
+.box {
+    width: 21vw;
+    height: 39vh;
+    background-color: rgb(156, 151, 149);
+    margin: 31px;
+    border: 3px dashed #000000;
+    float: left;
+    border-radius: 25px;
+}
+
+.box h1{
+    text-align: center;
+}
+
+.box img{
+    width: 100%;
+    align-items: center;
+    margin-left: 5%;
+}
+
+.ninja{
+    text-align: end;
+}
+
+.icon{
+    margin-top: 7%;
+    margin-left: 33%;
+}
+
+/* .footer{
+    margin-top: 55%;
+    margin-left: 20%;
+} */
